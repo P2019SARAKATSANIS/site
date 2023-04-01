@@ -18,9 +18,9 @@
 	path = _includes/text
 	url = https://github.com/mibook/text.git
 	branch = main 
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/P2019SARAKATSANIS/_gallery
 [submodule "images"]
 	path = images
 	url = https://github.com/P2019SARAKATSANIS/images
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/P2019SARAKATSANIS/_gallery
