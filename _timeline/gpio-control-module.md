@@ -7,5 +7,5 @@ events:
   - input-device
   - output-device
   - raspberry-pi
-  - manjaro-arm
+  - intel-d8255
 ---
