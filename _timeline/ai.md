@@ -10,4 +10,6 @@ events:
   - google_assistant.md
   - dartmouth-basic
   - chat-bot
+  - grammarly
+  - chatgpt
 ---
