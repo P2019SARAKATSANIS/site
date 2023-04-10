@@ -19,4 +19,5 @@ events:
   - oberon
   - sam-editor
   - acme-editor
+  - grammarly
 ---
