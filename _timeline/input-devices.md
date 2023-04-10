@@ -21,6 +21,5 @@ events:
   - media-scrub
   - kinect
   - leap-motion
-  - gpio-control-module.md
 ---
 
