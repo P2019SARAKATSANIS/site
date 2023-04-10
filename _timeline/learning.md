@@ -19,5 +19,7 @@ events:
   - interactive-whiteboard
   - sugar-neighborhood
   - minecraft-end-user
+  - chat gpt
+  - grammarly
 ---
 
