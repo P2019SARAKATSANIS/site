@@ -14,7 +14,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "P2019SARAKATSANIS"
 description              : "Programming Interactivity Greek Book."
-url                      : "p2019sarakatsanis-paradotreo-7.netlify.app"
+url                      : "https://p2019sarakatsanis-paradotreo-7.netlify.app"
 baseurl                  : ""
 repository               : "P2019SARAKATSANIS/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
