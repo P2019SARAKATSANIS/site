@@ -17,9 +17,9 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/P2019SARAKATSANIS/_gallery
-[submodule "images"]
-	path = images
-	url = https://github.com/P2019SARAKATSANIS/images
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/P2019SARAKATSANIS/extras
+[submodule "images"]
+	path = images
+	url = https://github.com/P2019SARAKATSANIS/images
